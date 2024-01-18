@@ -20,7 +20,7 @@ Develop software to simulate the McCulloch and Pitts model of artificial neuron.
 ## Scenarios validated with necessary outputs using code
 ![Scenario](https://github.com/harshilaNEU/Neural_Networks/blob/main/Reference_Images/Scenario.png)
 
-## Output :
+## Sample Output :
 ![Output](https://github.com/harshilaNEU/Neural_Networks/blob/main/Reference_Images/output.png)
 
 
