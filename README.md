@@ -15,7 +15,7 @@ Develop software to simulate the McCulloch and Pitts model of artificial neuron.
 
 ## McCulloch and Pitts model
 
-![Model]([McCulloch and Pitts Model.png](https://github.com/harshilaNEU/Neural_Networks/blob/main/Reference_Images/McCulloch_and_Pitts_Model.png))https://github.com/harshilaNEU/Neural_Networks/blob/main/Reference_Images/McCulloch_and_Pitts_Model.png)
+![Model](https://github.com/harshilaNEU/Neural_Networks/blob/main/Reference_Images/McCulloch_and_Pitts_Model.png)https://github.com/harshilaNEU/Neural_Networks/blob/main/Reference_Images/McCulloch_and_Pitts_Model.png)
 
 ## Output :
 
