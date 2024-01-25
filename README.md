@@ -18,14 +18,5 @@ NEU ID : 002743674
 1. Visual Studio Code
 2. Python
 
-## McCulloch and Pitts model
-
-![Model](https://github.com/harshilaNEU/Neural_Networks/blob/main/Reference_Images/McCulloch_and_Pitts_Model.png)
-
-## Scenarios validated with necessary outputs using code
-![Scenario](https://github.com/harshilaNEU/Neural_Networks/blob/main/Reference_Images/Scenario.png)
-
-## Sample Output :
-![Output](https://github.com/harshilaNEU/Neural_Networks/blob/main/Reference_Images/output.png)
 
 
