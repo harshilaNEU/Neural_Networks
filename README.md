@@ -23,7 +23,7 @@ NEU ID : 002743674
 python3 main.py
 
 ## Output :
-![Output](https://github.com/harshilaNEU/Neural_Networks/blob/main/Reference_Images/output.png)
+![Output](https://github.com/harshilaNEU/Neural_Networks/blob/Assignment_2_Perceptron/Reference_Images/output.png)
 
 
 
