@@ -18,5 +18,12 @@ NEU ID : 002743674
 1. Visual Studio Code
 2. Python
 
+## Steps to run :
+
+python3 main.py
+
+## Output :
+![Output](https://github.com/harshilaNEU/Neural_Networks/blob/main/Reference_Images/output.png)
+
 
 
