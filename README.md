@@ -21,6 +21,7 @@ NEU ID : 002743674
 ## Steps to run :
 
 1. clone the repository
+switch the branch --> git switch Assignment_2_Perceptron
 2. cd Code
 3. python3 main.py
 
