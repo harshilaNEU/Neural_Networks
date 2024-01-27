@@ -20,7 +20,26 @@ NEU ID : 002743674
 
 ## Steps to run :
 
-python3 main.py
+1. clone the repository
+2. cd Code
+3. python3 main.py
+
+## Code folder structure
+
+Files :
+1. activation_function.py
+2. dataset.py
+3. main.py
+4. neuron.py
+5. perceptron.py
+6. train_test.py
+
+## Image Dataset
+
+Data folder
+--> Train_Images (labelled handwrittern 0 to 9 each number 10 images)
+--> Test_Images (unlabelled handwrittern 0 to 9 each number 10 images)
+
 
 ## Output :
 ![Output](https://github.com/harshilaNEU/Neural_Networks/blob/Assignment_2_Perceptron/Reference_Images/output.png)
