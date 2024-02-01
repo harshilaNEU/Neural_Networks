@@ -29,8 +29,3 @@ NEU ID : 002743674
 2. Python
 
 
-
-## Sample Output :
-![Output](https://github.com/harshilaNEU/Neural_Networks/blob/main/Reference_Images/output.png)
-
-
