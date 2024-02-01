@@ -1,4 +1,4 @@
-# HW to Chapter 1 “Brain, Neurons, and Models“
+# HW to Chapter 4, 5 “One Hidden Layer”
 
 ## Name : Harshila Jagtap 
 
@@ -6,19 +6,29 @@ NEU ID : 002743674
 
 ## Question :
 
-Develop software to simulate the McCulloch and Pitts model of artificial neuron. The simulated neuron takes input and generates output according to the activation function. Make sure that your simulation software is designed well to allow for further enhancements
+1.    Start developing a Neural Network with one hidden layer
+2.    Use object-oriented approach.
+3.    Recommended class structure:
+       Class – Activation
+       Class – Neuron
+       Class – Layer
+       Class – Parameters
+       Class – Model (start with Neural Network with one hidden layer
+       Class – LossFunction
+       Class – ForwardProp
+       Class – BackProp
+       Class – GradDescent
+       Class – Traning
+4.    Feel free to use a different set of classes if find appropriate 
+5.    Consult with TA (Meet Doshi) on the class hierarchy design and software development.
+6.    Do as much as you can but do it.
 
 ## Pre-requisite :
 
 1. Visual Studio Code
 2. Python
 
-## McCulloch and Pitts model
 
-![Model](https://github.com/harshilaNEU/Neural_Networks/blob/main/Reference_Images/McCulloch_and_Pitts_Model.png)
-
-## Scenarios validated with necessary outputs using code
-![Scenario](https://github.com/harshilaNEU/Neural_Networks/blob/main/Reference_Images/Scenario.png)
 
 ## Sample Output :
 ![Output](https://github.com/harshilaNEU/Neural_Networks/blob/main/Reference_Images/output.png)
