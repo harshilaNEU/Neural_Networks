@@ -15,10 +15,6 @@ NEU ID : 002743674
 1. Visual Studio Code
 2. Python
 
-## Scenarios validated with necessary outputs using code
-
-
 ## Sample Output :
-
-
+![Output](https://github.com/harshilaNEU/Neural_Networks/blob/HW_6_7_Activation_Function/Reference_Images/output.png)
 
