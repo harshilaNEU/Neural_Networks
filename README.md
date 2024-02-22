@@ -1,4 +1,4 @@
-# HW to Chapter 1 “Brain, Neurons, and Models“
+# HW to Chapter 9 "Fitting, Bias, Regularization, and Dropout"
 
 ## Name : Harshila Jagtap 
 
@@ -6,21 +6,13 @@ NEU ID : 002743674
 
 ## Question :
 
-Develop software to simulate the McCulloch and Pitts model of artificial neuron. The simulated neuron takes input and generates output according to the activation function. Make sure that your simulation software is designed well to allow for further enhancements
+1. Implement regularization algorithms in your neural network.
+2. Implement dropout algorithms in your neural network.
 
 ## Pre-requisite :
 
 1. Visual Studio Code
 2. Python
 
-## McCulloch and Pitts model
-
-![Model](https://github.com/harshilaNEU/Neural_Networks/blob/main/Reference_Images/McCulloch_and_Pitts_Model.png)
-
-## Scenarios validated with necessary outputs using code
-![Scenario](https://github.com/harshilaNEU/Neural_Networks/blob/main/Reference_Images/Scenario.png)
-
-## Sample Output :
-![Output](https://github.com/harshilaNEU/Neural_Networks/blob/main/Reference_Images/output.png)
 
 
