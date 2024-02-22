@@ -1,4 +1,6 @@
-# HW to Chapter 8 “Parameter Initialization and Training Sets”## Name : Harshila Jagtap 
+# HW to Chapter 8 “Parameter Initialization and Training Sets”
+
+## Name : Harshila Jagtap 
 
 NEU ID : 002743674 
 
