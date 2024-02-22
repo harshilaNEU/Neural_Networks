@@ -1,26 +1,15 @@
-# HW to Chapter 1 “Brain, Neurons, and Models“
-
-## Name : Harshila Jagtap 
+# HW to Chapter 8 “Parameter Initialization and Training Sets”## Name : Harshila Jagtap 
 
 NEU ID : 002743674 
 
 ## Question :
 
-Develop software to simulate the McCulloch and Pitts model of artificial neuron. The simulated neuron takes input and generates output according to the activation function. Make sure that your simulation software is designed well to allow for further enhancements
+Develop a prototype of the training, validation, and testing sets of your choice for the future training of your neural network. The term “prototype: means that the sets may be quite limited by number of images, but the proportions of images in them should be maintained as required
 
 ## Pre-requisite :
 
 1. Visual Studio Code
 2. Python
 
-## McCulloch and Pitts model
-
-![Model](https://github.com/harshilaNEU/Neural_Networks/blob/main/Reference_Images/McCulloch_and_Pitts_Model.png)
-
-## Scenarios validated with necessary outputs using code
-![Scenario](https://github.com/harshilaNEU/Neural_Networks/blob/main/Reference_Images/Scenario.png)
-
-## Sample Output :
-![Output](https://github.com/harshilaNEU/Neural_Networks/blob/main/Reference_Images/output.png)
 
 
