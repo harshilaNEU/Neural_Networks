@@ -34,8 +34,9 @@ Test
 
 1. Take clone of repository.
 2. switch to branch "Dropout"
-3. Locate jupyter_notebook "regularization_dropout.ipynb"
-4. Run the notebook "regularization_dropout.ipynb"
+3. Unzip the data.zip file
+4. Locate jupyter_notebook "regularization_dropout.ipynb"
+5. Run the notebook "regularization_dropout.ipynb"
 
 ## Output of Generated Prototype
 
