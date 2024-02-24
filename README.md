@@ -22,7 +22,7 @@ Sample images from each class of the CIFAR-10 dataset is shown below:
 
 ![Dataset](https://github.com/harshilaNEU/Neural_Networks/blob/Training_Sets/Reference_Images/CIFAR-10_dataset.png)
 
-![Original CIFAR-10 dataset](https://github.com/harshilaNEU/Neural_Networks/blob/Training_Sets/Reference_Images/Downloaded_CIFAR-10_data.png)
+![Dataset](https://github.com/harshilaNEU/Neural_Networks/blob/Dropout/Reference_Images/dataset.png)
 
 5000 : train, 1000 test, 80% - 20% train validate ratio
 Folder: data
@@ -39,6 +39,6 @@ Test
 
 ## Output of Generated Prototype
 
-![Generated_Prototype](https://github.com/harshilaNEU/Neural_Networks/blob/Training_Sets/Reference_Images/output.png)
+![Output](https://github.com/harshilaNEU/Neural_Networks/blob/Dropout/Reference_Images/output.png)
 
 
