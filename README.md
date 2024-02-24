@@ -20,4 +20,21 @@ Sample images from each class of the CIFAR-10 dataset is shown below:
 
 
 
-![Dataset](https://github.com/ShrishailyaChavan/Computer_Vision_HW0/blob/main/Phase2Dataset.png)
+![Dataset](https://github.com/harshilaNEU/Neural_Networks/blob/Training_Sets/Reference_Images/CIFAR-10_dataset.png)
+
+## To Generate the Prototype
+
+1. Took 10% of the of Train dataset, 1% of each class 'airplane', 'automobile', 'bird', 'cat', 'deer', 'dog', 'frog', 'horse', 'ship', 'truck'. So considered 5000 images.
+2. Took 10% of the Test dataset, 1% of each class 'airplane', 'automobile', 'bird', 'cat', 'deer', 'dog', 'frog', 'horse', 'ship', 'truck'. So considered 1000 images.
+3. For Validation, setting 20% aside and 80% for training.
+
+## Downloaded CIFAR-10 dataset
+
+![Original CIFAR-10 dataset](https://github.com/harshilaNEU/Neural_Networks/blob/Training_Sets/Reference_Images/Downloaded_CIFAR-10_data.png)
+
+## Output of Generated Prototype
+
+![Generated_Prototype](https://github.com/harshilaNEU/Neural_Networks/blob/Training_Sets/Reference_Images/output.png)
+
+
+![Classwise_prototype_generation](https://github.com/harshilaNEU/Neural_Networks/blob/Training_Sets/Reference_Images/internal_folder_structure.png)
