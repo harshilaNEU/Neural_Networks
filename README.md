@@ -1,5 +1,6 @@
 # HW to Chapter 9 "Fitting, Bias, Regularization, and Dropout"
 # HW to Chapter 10 “Normalization and Optimization Methods”
+# HW to Chapter 11 “Learning Rates Decay and Hyperparameters”
 
 ## Name : Harshila Jagtap 
 
@@ -9,7 +10,8 @@ NEU ID : 002743674
 
 1. Implement regularization algorithms in your neural network.
 2. Implement dropout algorithms in your neural network.
-3. Implement input normalization algorithm. 
+3. Implement input normalization algorithm.
+4. Implement a mini batch approach.
 
 ## Pre-requisite :
 
