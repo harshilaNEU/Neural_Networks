@@ -1,4 +1,4 @@
-# HW to Chapter 1 “Brain, Neurons, and Models“
+# HW to Chapter 13 “Convolutional Layer“
 
 ## Name : Harshila Jagtap 
 
@@ -6,21 +6,14 @@ NEU ID : 002743674
 
 ## Question :
 
-Develop software to simulate the McCulloch and Pitts model of artificial neuron. The simulated neuron takes input and generates output according to the activation function. Make sure that your simulation software is designed well to allow for further enhancements
+Implement a convolution algorithm without padding and without striding for original image 6 x 6 and filter 3 x 3.
 
 ## Pre-requisite :
 
 1. Visual Studio Code
 2. Python
 
-## McCulloch and Pitts model
-
-![Model](https://github.com/harshilaNEU/Neural_Networks/blob/main/Reference_Images/McCulloch_and_Pitts_Model.png)
-
-## Scenarios validated with necessary outputs using code
-![Scenario](https://github.com/harshilaNEU/Neural_Networks/blob/main/Reference_Images/Scenario.png)
-
 ## Sample Output :
-![Output](https://github.com/harshilaNEU/Neural_Networks/blob/main/Reference_Images/output.png)
+
 
 
