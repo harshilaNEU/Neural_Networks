@@ -1,4 +1,4 @@
-# HW to Chapter 1 “Brain, Neurons, and Models“
+# HW to Chapter 12 "Softmax"
 
 ## Name : Harshila Jagtap 
 
@@ -6,21 +6,14 @@ NEU ID : 002743674
 
 ## Question :
 
-Develop software to simulate the McCulloch and Pitts model of artificial neuron. The simulated neuron takes input and generates output according to the activation function. Make sure that your simulation software is designed well to allow for further enhancements
+Implement the softmax activation functIon.
 
 ## Pre-requisite :
 
 1. Visual Studio Code
 2. Python
 
-## McCulloch and Pitts model
+## Output :
 
-![Model](https://github.com/harshilaNEU/Neural_Networks/blob/main/Reference_Images/McCulloch_and_Pitts_Model.png)
-
-## Scenarios validated with necessary outputs using code
-![Scenario](https://github.com/harshilaNEU/Neural_Networks/blob/main/Reference_Images/Scenario.png)
-
-## Sample Output :
-![Output](https://github.com/harshilaNEU/Neural_Networks/blob/main/Reference_Images/output.png)
 
 
