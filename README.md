@@ -13,7 +13,14 @@ Implement a convolution algorithm without padding and without striding for origi
 1. Visual Studio Code
 2. Python
 
-## Sample Output :
+## Steps
+
+1. Clone the repository and switch the branch to Convolutional_layer
+2. Run the file convolution.ipynb
+
+## Output :
+
+![Output](https://github.com/harshilaNEU/Neural_Networks/blob/Convolutional_layer/Reference_Images/output.png)
 
 
 
