@@ -21,5 +21,6 @@ Implement the softmax activation functIon.
 
 ## Output :
 
+![Output](https://github.com/harshilaNEU/Neural_Networks/blob/Softmax_Activation_Function/Reference_Images/output.png)
 
 
